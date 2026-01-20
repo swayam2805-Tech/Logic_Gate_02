@@ -102,7 +102,7 @@ Final implemented design after synthesis and implementation in Vivado.
 
 ## Project Status
 
- AND gate implemented and tested successfully
+ OR gate implemented and tested successfully
  Future scope: NOT, NAND, NOR, XOR gates
 
 ## License
