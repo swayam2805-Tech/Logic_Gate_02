@@ -70,7 +70,7 @@ Target hardware platform used for implementation.
 ### Implemented Design
 
 Final implemented design after synthesis and implementation in Vivado.
-![Implemented Design](Implemented.png)
+![Implemented Design](implemented.png)
 
 ## How to Run the Project
 
@@ -84,7 +84,7 @@ Final implemented design after synthesis and implementation in Vivado.
 4. Synthesize and implement the design
 5. Generate the **bitstream**
 6. Program the **Arty A7 FPGA board**
-7. Observe the AND gate functionality on the hardware
+7. Observe the OR gate functionality on the hardware
 
 ## Design Flow
 
